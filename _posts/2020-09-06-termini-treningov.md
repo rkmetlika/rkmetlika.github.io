@@ -13,4 +13,4 @@ Treningi bodo potekali v športni dvorani OŠ Metlika v terminih, ki jih razbere
 
 ## METLIKA DOK NE VMREM!
 
-<img style="width: 100%" src="/assets/images/2019-2020/Potrjeni_termini_treningov.PNG"/>
+<img style="width: 100%" src="/assets/images/Potrjeni_termini_treningov.PNG"/>
